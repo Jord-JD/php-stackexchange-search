@@ -1,6 +1,6 @@
 <?php
 
-namespace DivineOmega\StackExchangeSearch\Enums;
+namespace JordJD\StackExchangeSearch\Enums;
 
 class Sites
 {

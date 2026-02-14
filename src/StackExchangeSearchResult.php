@@ -1,8 +1,8 @@
 <?php
 
-namespace DivineOmega\StackExchangeSearch;
+namespace JordJD\StackExchangeSearch;
 
-use DivineOmega\BaseSearch\Interfaces\SearchResultInterface;
+use JordJD\BaseSearch\Interfaces\SearchResultInterface;
 
 class StackExchangeSearchResult implements SearchResultInterface
 {

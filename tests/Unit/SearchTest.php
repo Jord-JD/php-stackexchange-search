@@ -1,11 +1,11 @@
 <?php
 
-namespace DivineOmega\StackExchangeSearch\Tests;
+namespace JordJD\StackExchangeSearch\Tests;
 
-use DivineOmega\BaseSearch\Interfaces\SearchResultInterface;
-use DivineOmega\StackExchangeSearch\Enums\Sites;
-use DivineOmega\StackExchangeSearch\StackExchangeSearcher;
-use DivineOmega\StackExchangeSearch\StackExchangeSearchResult;
+use JordJD\BaseSearch\Interfaces\SearchResultInterface;
+use JordJD\StackExchangeSearch\Enums\Sites;
+use JordJD\StackExchangeSearch\StackExchangeSearcher;
+use JordJD\StackExchangeSearch\StackExchangeSearchResult;
 use PHPUnit\Framework\TestCase;
 
 final class SearchTest extends TestCase
